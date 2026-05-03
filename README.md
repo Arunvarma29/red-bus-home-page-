@@ -36,7 +36,7 @@ src/
 │   ├── SVGIcons.jsx                # SVG icon components
 │   ├── Header.jsx                  # (Legacy)
 │   ├── Footer.jsx                  # (Legacy)
-│   └── ...other old components
+│  
 ├── data/
 │   └── dummyData.js               # All dummy data exported
 ├── App.jsx                         # Main app component
